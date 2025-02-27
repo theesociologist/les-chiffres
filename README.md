@@ -57,5 +57,5 @@ the winner of one million dollars!
 - Restart the game if unexpected behavior occurs.
 
 # Credits
-Developed by theesociologis, an alchemist sent to planet earth from a galaxy far, far away. 
+Developed by theesociologist, an alchemist sent to planet earth from a galaxy far, far away. 
 

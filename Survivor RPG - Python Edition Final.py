@@ -1,10 +1,4 @@
 """
-FINAL PROJECT
-Python 1
-UCLA Extension
-author: SONITA MOSS
-
-Survivor: Python Edition
 
 This is a text-based role-playing game based on the reality series, "Survivor".
 Players compete in immunity challenges, explore the Island, interact with tribe
